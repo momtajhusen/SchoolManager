@@ -36,8 +36,8 @@
              <div class="form-group col-12 col-md-3 mb-0">
                <label for="exampleFormControlSelect2">Select School *</label>
                <select class="form-control" id="select-school">
-                 <option value="https://gurukul.mustlearn.in/api/get-page-activity">Gurukul School</option>
-                 <option value="https://sunrise.mustlearn.in/api/get-page-activity">Sunrise School</option>
+                 <option value="https://gurukul.scriptqube.in/api/get-page-activity">Gurukul School</option>
+                 <option value="https://sunrise.scriptqube.in/api/get-page-activity">Sunrise School</option>
                </select>
              </div>
              <div class="col-12 col-md-3 mb-2">
@@ -105,8 +105,8 @@
           <div class="form-group col-12 col-md-3 mb-0">
             <label for="exampleFormControlSelect2">Select School *</label>
             <select class="form-control" id="select-school-button">
-              <option value="https://gurukul.mustlearn.in/api/get-button-activity">Gurukul School</option>
-              <option value="https://sunrise.mustlearn.in/api/get-button-activity">Sunrise School</option>
+              <option value="https://gurukul.scriptqube.in/api/get-button-activity">Gurukul School</option>
+              <option value="https://sunrise.scriptqube.in/api/get-button-activity">Sunrise School</option>
             </select>
           </div>
           <div class="col-12 col-md-3 mb-2">
