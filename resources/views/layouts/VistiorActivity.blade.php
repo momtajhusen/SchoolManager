@@ -2,7 +2,7 @@
 
 @section('script')
 
-       {{-- ago time calculate  --}}
+      
        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 
       <!-- ajax visitorActivityData -->
@@ -36,8 +36,14 @@
              <div class="form-group col-12 col-md-3 mb-0">
                <label for="exampleFormControlSelect2">Select School *</label>
                <select class="form-control" id="select-school">
-                 <option value="https://gurukul.scriptqube.in/api/get-page-activity">Gurukul School</option>
-                 <option value="https://sunrise.scriptqube.in/api/get-page-activity">Sunrise School</option>
+                 <option value="https://gurukul.scriptqube.com/api/get-page-activity">Gurukul School</option>
+                 <option value="https://sunrise.scriptqube.com/api/get-page-activity">Sunrise School</option>
+                 <option value="https://demo.scriptqube.com/api/get-page-activity">Demo School</option>
+                 <option value="https://developer.scriptqube.com/api/get-page-activity">Developer School</option>
+                 <option value="https://milestone.scriptqube.com/api/get-page-activity">Milestone School</option>
+                 <option value="https://sbps.scriptqube.com/api/get-page-activity">Shree Bhampura School</option>
+                 <option value="https://omacademy.scriptqube.com/api/get-page-activity">Om Academ Schooly</option>
+                 <option value="https://siddharthashishu.scriptqube.com/api/get-page-activity">siddharthashishu School</option>
                </select>
              </div>
              <div class="col-12 col-md-3 mb-2">
@@ -91,7 +97,7 @@
    <div class="card">
    <div class="card-body">
       <div class="d-flex justify-content-between">
-         <h4 class="card-title">Pages Activity</h4>
+         <h4 class="card-title">Button Activity</h4>
       </div>
       <div class="row">
          <div class="form-group col-12 col-md-3">
@@ -105,8 +111,13 @@
           <div class="form-group col-12 col-md-3 mb-0">
             <label for="exampleFormControlSelect2">Select School *</label>
             <select class="form-control" id="select-school-button">
-              <option value="https://gurukul.scriptqube.in/api/get-button-activity">Gurukul School</option>
-              <option value="https://sunrise.scriptqube.in/api/get-button-activity">Sunrise School</option>
+              <option value="https://gurukul.scriptqube.com/api/get-button-activity">Gurukul School</option>
+              <option value="https://sunrise.scriptqube.com/api/get-button-activity">Sunrise School</option>
+              <option value="https://demo.scriptqube.com/api/get-button-activity">Demo School</option>
+              <option value="https://developer.scriptqube.com/api/get-button-activity">Developer School</option>
+              <option value="https://milestone.scriptqube.com/api/get-button-activity">Milestone School</option>
+              <option value="https://omacademy.scriptqube.com/api/get-button-activity">Om Academy School</option>
+              <option value="https://siddharthashishu.scriptqube.com/api/get-button-activity">siddharthashishu school</option>
             </select>
           </div>
           <div class="col-12 col-md-3 mb-2">
