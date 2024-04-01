@@ -22,7 +22,7 @@
       <div class="card">
       <div class="card-body">
          <div class="d-flex justify-content-between">
-            <h4 class="card-title">Pages Activity</h4>
+            <h4 class="card-title">Pages Activity School</h4>
          </div>
          <div class="row">
             <div class="form-group col-12 col-md-3">
